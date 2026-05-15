@@ -28,8 +28,10 @@
       "category": "足球投注",
       "angle": "疑問句型",
       "image_theme": "football upset underdog match",
-      "status": "available",
-      "writing_style": "數據驅動，引用歷史冷門統計，1100字"
+      "status": "used",
+      "writing_style": "數據驅動，引用歷史冷門統計，1100字",
+      "slug": "why-football-betting-upsets-happen",
+      "used_date": "2026-05-15"
     },
     {
       "id": 4,
