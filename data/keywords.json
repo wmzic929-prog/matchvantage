@@ -17,8 +17,10 @@
       "category": "足球投注",
       "angle": "疑問句型",
       "image_theme": "asian handicap european odds comparison",
-      "status": "available",
-      "writing_style": "對比分析，含賠率換算公式，1100字"
+      "status": "used",
+      "writing_style": "對比分析，含賠率換算公式，1100字",
+      "slug": "asian-handicap-vs-european-odds",
+      "used_date": "2026-05-15"
     },
     {
       "id": 3,
