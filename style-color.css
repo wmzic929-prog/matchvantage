@@ -1,0 +1,32 @@
+/* midnight-orange — 午夜藍 × 橙 | 體育熱血 */
+:root {
+  --clr-accent:         #f97316;
+  --clr-accent-dark:    #ea580c;
+  --clr-accent-light:   #fb923c;
+  --clr-accent-glow:    rgba(249,115,22,.30);
+  --clr-accent-faint:   rgba(249,115,22,.10);
+
+  --clr-bg:             #ffffff;
+  --clr-bg-alt:         #fff7ed;
+  --clr-bg-dark:        #0f172a;
+  --clr-bg-dark2:       #1e293b;
+
+  --clr-text:           #0f172a;
+  --clr-text-muted:     #64748b;
+  --clr-text-inv:       #f8fafc;
+  --clr-text-inv-muted: rgba(248,250,252,.65);
+
+  --clr-border:         #fde8d3;
+  --clr-border-dark:    rgba(255,255,255,.12);
+
+  --clr-tag-1:          #f97316;
+  --clr-tag-2:          #3b82f6;
+  --clr-tag-3:          #10b981;
+  --clr-tag-4:          #8b5cf6;
+  --clr-tag-5:          #ec4899;
+
+  --clr-hero-overlay:   linear-gradient(0deg, rgba(15,23,42,.96) 0%, rgba(15,23,42,.55) 55%, rgba(15,23,42,.15) 100%);
+  --clr-shadow:         0 1px 4px rgba(249,115,22,.08), 0 1px 2px rgba(0,0,0,.06);
+  --clr-shadow-md:      0 4px 16px rgba(249,115,22,.18), 0 2px 4px rgba(0,0,0,.06);
+  --clr-shadow-accent:  0 6px 24px rgba(249,115,22,.35);
+}
