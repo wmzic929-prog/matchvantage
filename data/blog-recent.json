@@ -1,28 +1,28 @@
 {
-    "articles":  [
-                     {
-                         "slug":  "why-football-betting-upsets-happen",
-                         "title":  "足球投注點解冷門咁多？5大原因同投注策略全公開",
-                         "category":  "足球投注",
-                         "date":  "2026-05-15",
-                         "excerpt":  "上季英超超過28%嘅比賽結果係冷門，呢個數字足以令任何單純跟大熱投注嘅策略長期虧損，你係咪仲未知道背後嘅真正原因？",
-                         "imageUrl":  "https://pixabay.com/get/ga908aaf246bca48b1ef428f26ce3e6226e903b92421246d632ea29d334f91f9098fd003fb3c1bd95094e56a222570f86170bb4dc361b85d7587180626b4b13de_640.jpg"
-                     },
-                     {
-                         "slug":  "asian-handicap-vs-european-odds",
-                         "title":  "亞洲盤同歐洲盤有咩分別？足球投注盤口完全攻略",
-                         "category":  "足球投注",
-                         "date":  "2026-05-15",
-                         "excerpt":  "我踏入足球投注嘅頭幾個月，一直搞唔清亞洲盤同歐洲盤嘅分別，結果白白輸咗唔少水位錢——呢篇文係我當時最需要嘅答案。",
-                         "imageUrl":  "https://pixabay.com/get/g266206940f320af616b6bd86b269bb50e68d764df50e3c22e0deff7bf99c65d16b5efa3c9d522df78437c4159b22547181c6581880d8b1dcfa7010f6c65d8b33_640.jpg"
-                     },
-                     {
-                         "slug":  "football-handicap-betting-guide",
-                         "title":  "足球讓球怎麼計算？2026年新手完整教學",
-                         "metaDesc":  "從零學起的讓球入門教學，整數球、半球、四分之一球一次搞清楚，新手必讀。",
-                         "imageUrl":  "https://pixabay.com/get/ge5ad6cd3e0598cb9b62cecca7efcb74f97e5126abdeb39eb86771e8401b59623d82b6832b6a59f62c06f4d3a0da737118afd18b85951226280785e82247f9600_640.jpg",
-                         "category":  "攻略",
-                         "date":  "2026-05-15"
-                     }
-                 ]
+  "articles": [
+    {
+      "slug": "why-football-betting-upsets-happen",
+      "title": "足球投注點解冷門咁多？5大原因同投注策略全公開",
+      "category": "足球投注",
+      "date": "2026-05-15",
+      "excerpt": "上季英超超過28%嘅比賽結果係冷門，呢個數字足以令任何單純跟大熱投注嘅策略長期虧損，你係咪仲未知道背後嘅真正原因？",
+      "imageUrl": "https://images.pexels.com/photos/7594223/pexels-photo-7594223.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "slug": "asian-handicap-vs-european-odds",
+      "title": "亞洲盤同歐洲盤有咩分別？足球投注盤口完全攻略",
+      "category": "足球投注",
+      "date": "2026-05-15",
+      "excerpt": "我踏入足球投注嘅頭幾個月，一直搞唔清亞洲盤同歐洲盤嘅分別，結果白白輸咗唔少水位錢——呢篇文係我當時最需要嘅答案。",
+      "imageUrl": "https://images.pexels.com/photos/17779074/pexels-photo-17779074.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "slug": "football-handicap-betting-guide",
+      "title": "足球讓球怎麼計算？2026年新手完整教學",
+      "category": "攻略",
+      "date": "2026-05-15",
+      "excerpt": "從零學起的讓球入門教學，整數球、半球、四分之一球一次搞清楚，新手必讀。",
+      "imageUrl": "https://images.pexels.com/photos/2570139/pexels-photo-2570139.jpeg?auto=compress&cs=tinysrgb&h=350"
+    }
+  ]
 }
