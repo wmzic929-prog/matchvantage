@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "pre-match-handicap-analysis",
+      "title": "如何分析賽前讓球走勢？教你睇穿市場資金流向投注攻略",
+      "category": "足球投注",
+      "date": "2026-05-18",
+      "excerpt": "好多人輸波係因為只睇讓球數字，從來唔追走勢——其實讓球線每次移動都係市場嘅秘密語言，讀懂咗先係贏家。",
+      "imageUrl": "https://pixabay.com/get/g3645f69818f46afbb5e21d3b7a9f817a554b44bd033f3f484b5df1d329fdcd5837758e360383175f92f0cb559b156278ef02bf150c4997043aa0ba347cb861a8_640.jpg"
+    },
+    {
       "slug": "why-football-betting-upsets-happen",
       "title": "足球投注點解冷門咁多？5大原因同投注策略全公開",
       "category": "足球投注",
@@ -15,14 +23,6 @@
       "date": "2026-05-15",
       "excerpt": "我踏入足球投注嘅頭幾個月，一直搞唔清亞洲盤同歐洲盤嘅分別，結果白白輸咗唔少水位錢——呢篇文係我當時最需要嘅答案。",
       "imageUrl": "https://images.pexels.com/photos/17779074/pexels-photo-17779074.jpeg?auto=compress&cs=tinysrgb&h=350"
-    },
-    {
-      "slug": "football-handicap-betting-guide",
-      "title": "足球讓球怎麼計算？2026年新手完整教學",
-      "category": "攻略",
-      "date": "2026-05-15",
-      "excerpt": "從零學起的讓球入門教學，整數球、半球、四分之一球一次搞清楚，新手必讀。",
-      "imageUrl": "https://images.pexels.com/photos/2570139/pexels-photo-2570139.jpeg?auto=compress&cs=tinysrgb&h=350"
     }
   ]
 }
