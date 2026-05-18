@@ -39,8 +39,10 @@
       "category": "足球投注",
       "angle": "疑問句型",
       "image_theme": "football pre-match analysis data screen",
-      "status": "available",
-      "writing_style": "方法論拆解，5步驟框架，1200字"
+      "status": "used",
+      "writing_style": "方法論拆解，5步驟框架，1200字",
+      "slug": "pre-match-handicap-analysis",
+      "used_date": "2026-05-18"
     },
     {
       "id": 5,
