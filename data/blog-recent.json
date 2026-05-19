@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "football-odds-fluctuation-meaning",
+      "title": "足球賠率波動點解？揭示數據背後嘅投注秘密",
+      "category": "足球投注",
+      "date": "2026-05-19",
+      "excerpt": "每次落注前見到賠率上上落落，你係咪都心大心細，唔知點解會咁？其實賠率波動背後大有學問！",
+      "imageUrl": "https://pixabay.com/get/gf7808588877d9f0b948e57151e96931fbfd6c6e46861640608950026b9c295b343c039a2b97322969041a124a61dcea1f13c4d6363c4e013c4df93027f73a53d_640.jpg"
+    },
+    {
       "slug": "pre-match-handicap-analysis",
       "title": "如何分析賽前讓球走勢？教你睇穿市場資金流向投注攻略",
       "category": "足球投注",
@@ -15,14 +23,6 @@
       "date": "2026-05-15",
       "excerpt": "上季英超超過28%嘅比賽結果係冷門，呢個數字足以令任何單純跟大熱投注嘅策略長期虧損，你係咪仲未知道背後嘅真正原因？",
       "imageUrl": "https://images.pexels.com/photos/7594223/pexels-photo-7594223.jpeg?auto=compress&cs=tinysrgb&h=350"
-    },
-    {
-      "slug": "asian-handicap-vs-european-odds",
-      "title": "亞洲盤同歐洲盤有咩分別？足球投注盤口完全攻略",
-      "category": "足球投注",
-      "date": "2026-05-15",
-      "excerpt": "我踏入足球投注嘅頭幾個月，一直搞唔清亞洲盤同歐洲盤嘅分別，結果白白輸咗唔少水位錢——呢篇文係我當時最需要嘅答案。",
-      "imageUrl": "https://images.pexels.com/photos/17779074/pexels-photo-17779074.jpeg?auto=compress&cs=tinysrgb&h=350"
     }
   ]
 }
