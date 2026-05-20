@@ -61,8 +61,10 @@
       "category": "籃球電競",
       "angle": "疑問句型",
       "image_theme": "basketball game total points betting",
-      "status": "available",
-      "writing_style": "策略導向，含NBA場均得分數據，1100字"
+      "status": "used",
+      "writing_style": "策略導向，含NBA場均得分數據，1100字",
+      "slug": "basketball-over-under-betting-guide",
+      "used_date": "2026-05-20"
     },
     {
       "id": 7,
