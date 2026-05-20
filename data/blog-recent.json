@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "basketball-over-under-betting-guide",
+      "title": "籃球大小球投注策略：高手教你點樣贏？",
+      "category": "籃球電競",
+      "date": "2026-05-20",
+      "excerpt": "每次睇波賭大小球都輸到入肉？我明你感受！今日就等我帶你拆解籃球大小球嘅奧秘，學識點樣提升勝率！",
+      "imageUrl": "https://pixabay.com/get/g2ec109cdd6f249c957578847b0fe0e67d7a74da05b2886d47879f0338600edefc8ef19178f4f93cc91548a32171ec5f6efe0741bdd98858d527c32199bb2522e_640.jpg"
+    },
+    {
       "slug": "football-odds-fluctuation-meaning",
       "title": "足球賠率波動點解？揭示數據背後嘅投注秘密",
       "category": "足球投注",
@@ -15,14 +23,6 @@
       "date": "2026-05-18",
       "excerpt": "好多人輸波係因為只睇讓球數字，從來唔追走勢——其實讓球線每次移動都係市場嘅秘密語言，讀懂咗先係贏家。",
       "imageUrl": "https://pixabay.com/get/g3645f69818f46afbb5e21d3b7a9f817a554b44bd033f3f484b5df1d329fdcd5837758e360383175f92f0cb559b156278ef02bf150c4997043aa0ba347cb861a8_640.jpg"
-    },
-    {
-      "slug": "why-football-betting-upsets-happen",
-      "title": "足球投注點解冷門咁多？5大原因同投注策略全公開",
-      "category": "足球投注",
-      "date": "2026-05-15",
-      "excerpt": "上季英超超過28%嘅比賽結果係冷門，呢個數字足以令任何單純跟大熱投注嘅策略長期虧損，你係咪仲未知道背後嘅真正原因？",
-      "imageUrl": "https://images.pexels.com/photos/7594223/pexels-photo-7594223.jpeg?auto=compress&cs=tinysrgb&h=350"
     }
   ]
 }
