@@ -463,6 +463,492 @@
       "image_theme": "hong kong premier league 2025 betting analysis",
       "status": "available",
       "writing_style": "本地賽事，1000字"
+    },
+    {
+      "id": 51,
+      "keyword": "讓球是什麼意思？完整解說",
+      "category": "足球投注",
+      "angle": "疑問句型",
+      "image_theme": "handicap betting meaning explanation chart",
+      "status": "available",
+      "writing_style": "概念解說，含整數半球差別，1100字"
+    },
+    {
+      "id": 52,
+      "keyword": "讓球主客和怎麼計算？",
+      "category": "足球投注",
+      "angle": "疑問句型",
+      "image_theme": "handicap draw home away calculation",
+      "status": "available",
+      "writing_style": "計算範例導向，含賠率示範，1100字"
+    },
+    {
+      "id": 53,
+      "keyword": "讓球0是什麼意思？",
+      "category": "足球投注",
+      "angle": "疑問句型",
+      "image_theme": "handicap zero meaning draw refund",
+      "status": "available",
+      "writing_style": "簡明解說，含退款規則，1000字"
+    },
+    {
+      "id": 54,
+      "keyword": "讓球1球是什麼意思？",
+      "category": "足球投注",
+      "angle": "疑問句型",
+      "image_theme": "one goal handicap betting explained",
+      "status": "available",
+      "writing_style": "例子導向，贏輸退款三種情況，1000字"
+    },
+    {
+      "id": 55,
+      "keyword": "讓球計算器使用教學",
+      "category": "足球投注",
+      "angle": "工具教學型",
+      "image_theme": "handicap calculator tool sports betting",
+      "status": "available",
+      "writing_style": "工具教學步驟，含計算器使用示範，1000字"
+    },
+    {
+      "id": 56,
+      "keyword": "讓球計法圖解教學",
+      "category": "足球投注",
+      "angle": "教學攻略型",
+      "image_theme": "handicap calculation method tutorial infographic",
+      "status": "available",
+      "writing_style": "圖解步驟，四種讓球類型拆解，1200字"
+    },
+    {
+      "id": 57,
+      "keyword": "讓球賠率怎麼看懂？",
+      "category": "足球投注",
+      "angle": "疑問句型",
+      "image_theme": "handicap odds reading guide",
+      "status": "available",
+      "writing_style": "賠率板解讀，含實際盤口範例，1100字"
+    },
+    {
+      "id": 58,
+      "keyword": "讓球盤分析技巧完整教學",
+      "category": "足球投注",
+      "angle": "教學攻略型",
+      "image_theme": "handicap market analysis betting tips",
+      "status": "available",
+      "writing_style": "分析框架，5個指標，1300字"
+    },
+    {
+      "id": 59,
+      "keyword": "讓球走盤代表什麼？",
+      "category": "足球投注",
+      "angle": "疑問句型",
+      "image_theme": "handicap line movement meaning analysis",
+      "status": "available",
+      "writing_style": "機制解說，含走盤訊號解讀，1100字"
+    },
+    {
+      "id": 60,
+      "keyword": "讓球主客和意思詳解",
+      "category": "足球投注",
+      "angle": "疑問句型",
+      "image_theme": "asian handicap home away draw meaning",
+      "status": "available",
+      "writing_style": "三種結果詳解，含賠率對比，1100字"
+    },
+    {
+      "id": 61,
+      "keyword": "亞洲盤賠率怎麼看懂？",
+      "category": "足球投注",
+      "angle": "疑問句型",
+      "image_theme": "asian handicap odds reading tutorial",
+      "status": "available",
+      "writing_style": "賠率板解讀，含數字換算，1100字"
+    },
+    {
+      "id": 62,
+      "keyword": "亞洲盤口如何解讀？",
+      "category": "足球投注",
+      "angle": "疑問句型",
+      "image_theme": "asian handicap market reading guide",
+      "status": "available",
+      "writing_style": "盤口解讀技巧，含實例，1100字"
+    },
+    {
+      "id": 63,
+      "keyword": "亞洲盤計算方法詳解",
+      "category": "足球投注",
+      "angle": "教學攻略型",
+      "image_theme": "asian handicap calculation method step by step",
+      "status": "available",
+      "writing_style": "計算步驟，含整數半球四分三球，1200字"
+    },
+    {
+      "id": 64,
+      "keyword": "亞洲盤讓球規則完整說明",
+      "category": "足球投注",
+      "angle": "教學攻略型",
+      "image_theme": "asian handicap rules complete guide",
+      "status": "available",
+      "writing_style": "規則說明，對比歐洲盤，1100字"
+    },
+    {
+      "id": 65,
+      "keyword": "亞洲盤分析：如何找到有價值的盤口",
+      "category": "足球投注",
+      "angle": "分析師型",
+      "image_theme": "asian handicap value analysis strategy",
+      "status": "available",
+      "writing_style": "分析師語氣，3個篩選標準，1300字"
+    },
+    {
+      "id": 66,
+      "keyword": "走地投注是什麼？完整入門教學",
+      "category": "足球投注",
+      "angle": "疑問句型",
+      "image_theme": "live betting in-play guide beginner",
+      "status": "available",
+      "writing_style": "新手導向，走地 vs 早盤差異，1100字"
+    },
+    {
+      "id": 67,
+      "keyword": "走地賠率怎麼解讀？",
+      "category": "足球投注",
+      "angle": "疑問句型",
+      "image_theme": "live betting odds reading in-play",
+      "status": "available",
+      "writing_style": "即時賠率解讀，含波動規律，1100字"
+    },
+    {
+      "id": 68,
+      "keyword": "足球走地投注技巧進階教學",
+      "category": "足球投注",
+      "angle": "教學攻略型",
+      "image_theme": "football live betting advanced techniques",
+      "status": "available",
+      "writing_style": "進階技巧，5個走地時機，1300字"
+    },
+    {
+      "id": 69,
+      "keyword": "場中投注規則完整說明",
+      "category": "足球投注",
+      "angle": "教學攻略型",
+      "image_theme": "in-play betting rules complete guide",
+      "status": "available",
+      "writing_style": "規則說明，含暫停機制，1000字"
+    },
+    {
+      "id": 70,
+      "keyword": "走地讓球規則說明",
+      "category": "足球投注",
+      "angle": "教學攻略型",
+      "image_theme": "live handicap betting rules in-play",
+      "status": "available",
+      "writing_style": "走地讓球特殊規則，含風險提示，1100字"
+    },
+    {
+      "id": 71,
+      "keyword": "體育投注盤口是什麼？新手入門",
+      "category": "通用策略",
+      "angle": "疑問句型",
+      "image_theme": "sports betting odds board beginner guide",
+      "status": "available",
+      "writing_style": "新手友好，涵蓋亞洲盤歐洲盤，1000字"
+    },
+    {
+      "id": 72,
+      "keyword": "足球盤口分析完整教學",
+      "category": "足球投注",
+      "angle": "教學攻略型",
+      "image_theme": "football odds analysis complete tutorial",
+      "status": "available",
+      "writing_style": "系統性教學，含盤路解讀，1300字"
+    },
+    {
+      "id": 73,
+      "keyword": "足球盤口教學：如何讀懂盤口",
+      "category": "足球投注",
+      "angle": "教學攻略型",
+      "image_theme": "football betting market reading tutorial",
+      "status": "available",
+      "writing_style": "圖解教學，含真實盤口範例，1200字"
+    },
+    {
+      "id": 74,
+      "keyword": "足球盤路分析方法與技巧",
+      "category": "足球投注",
+      "angle": "分析師型",
+      "image_theme": "football odds movement pattern analysis",
+      "status": "available",
+      "writing_style": "分析師語氣，3種盤路訊號，1300字"
+    },
+    {
+      "id": 75,
+      "keyword": "NBA盤口分析技巧完整教學",
+      "category": "籃球電競",
+      "angle": "教學攻略型",
+      "image_theme": "NBA basketball odds analysis betting",
+      "status": "available",
+      "writing_style": "籃球盤口特殊規則，含讓分大小球，1200字"
+    },
+    {
+      "id": 76,
+      "keyword": "NBA賠率分析：如何判斷走勢",
+      "category": "籃球電競",
+      "angle": "分析師型",
+      "image_theme": "NBA odds movement analysis trend",
+      "status": "available",
+      "writing_style": "分析師語氣，含公開賠率vs真實概率，1300字"
+    },
+    {
+      "id": 77,
+      "keyword": "籃球盤口怎麼看？完整解析",
+      "category": "籃球電競",
+      "angle": "疑問句型",
+      "image_theme": "basketball betting odds board reading",
+      "status": "available",
+      "writing_style": "概念解說，含NBA主要盤口類型，1100字"
+    },
+    {
+      "id": 78,
+      "keyword": "香港賽馬投注方式有哪幾種？",
+      "category": "賽馬投注",
+      "angle": "疑問句型",
+      "image_theme": "hong kong horse racing bet types guide",
+      "status": "available",
+      "writing_style": "分類說明，獨贏連贏孖T等，1200字"
+    },
+    {
+      "id": 79,
+      "keyword": "香港賽馬投注種類完整介紹",
+      "category": "賽馬投注",
+      "angle": "教學攻略型",
+      "image_theme": "hong kong horse racing bet categories explained",
+      "status": "available",
+      "writing_style": "系統性介紹，含各類注法，1300字"
+    },
+    {
+      "id": 80,
+      "keyword": "賽馬外圍賠率怎麼看？",
+      "category": "賽馬投注",
+      "angle": "疑問句型",
+      "image_theme": "horse racing overseas odds comparison",
+      "status": "available",
+      "writing_style": "賠率比較，外圍 vs HKJC差異，1100字"
+    },
+    {
+      "id": 81,
+      "keyword": "賽馬投注技巧：提高命中率的方法",
+      "category": "賽馬投注",
+      "angle": "教學攻略型",
+      "image_theme": "horse racing betting tips accuracy improvement",
+      "status": "available",
+      "writing_style": "技巧清單，含數據支撐，1200字"
+    },
+    {
+      "id": 82,
+      "keyword": "賽馬投注策略入門教學",
+      "category": "賽馬投注",
+      "angle": "教學攻略型",
+      "image_theme": "horse racing betting strategy beginner",
+      "status": "available",
+      "writing_style": "策略框架，適合新手，1100字"
+    },
+    {
+      "id": 83,
+      "keyword": "賽馬投注計算機使用指南",
+      "category": "賽馬投注",
+      "angle": "工具教學型",
+      "image_theme": "horse racing bet calculator tool guide",
+      "status": "available",
+      "writing_style": "工具使用教學，含過關計算，1000字"
+    },
+    {
+      "id": 84,
+      "keyword": "賭馬投注技巧：新手必學的5個策略",
+      "category": "賽馬投注",
+      "angle": "教學攻略型",
+      "image_theme": "horse racing betting strategies five tips beginner",
+      "status": "available",
+      "writing_style": "清單格式，5個實用策略，1200字"
+    },
+    {
+      "id": 85,
+      "keyword": "賽馬網上投注完整教學",
+      "category": "賽馬投注",
+      "angle": "教學攻略型",
+      "image_theme": "horse racing online betting guide tutorial",
+      "status": "available",
+      "writing_style": "步驟式教學，開戶到下注，1000字"
+    },
+    {
+      "id": 86,
+      "keyword": "賽馬派彩計算方法詳解",
+      "category": "賽馬投注",
+      "angle": "教學攻略型",
+      "image_theme": "horse racing dividend calculation explained",
+      "status": "available",
+      "writing_style": "計算步驟，含各類注法，1100字"
+    },
+    {
+      "id": 87,
+      "keyword": "足球串關投注攻略：組合計算教學",
+      "category": "通用策略",
+      "angle": "教學攻略型",
+      "image_theme": "football parlay accumulator combination betting",
+      "status": "available",
+      "writing_style": "攻略格式，含風險提示，1200字"
+    },
+    {
+      "id": 88,
+      "keyword": "體育投注串關是什麼？完整說明",
+      "category": "通用策略",
+      "angle": "疑問句型",
+      "image_theme": "parlay accumulator sports betting explained",
+      "status": "available",
+      "writing_style": "概念說明，含賠率計算，1000字"
+    },
+    {
+      "id": 89,
+      "keyword": "過關組合計算完整教學",
+      "category": "通用策略",
+      "angle": "教學攻略型",
+      "image_theme": "accumulator combination calculation tutorial",
+      "status": "available",
+      "writing_style": "計算教學，含2x3等組合，1200字"
+    },
+    {
+      "id": 90,
+      "keyword": "足球過關組合投注教學",
+      "category": "足球投注",
+      "angle": "教學攻略型",
+      "image_theme": "football accumulator combination betting guide",
+      "status": "available",
+      "writing_style": "實戰教學，含常見組合，1100字"
+    },
+    {
+      "id": 91,
+      "keyword": "角球大細是什麼意思？投注教學",
+      "category": "足球投注",
+      "angle": "疑問句型",
+      "image_theme": "corner kick over under betting meaning",
+      "status": "available",
+      "writing_style": "概念解說+投注策略，1000字"
+    },
+    {
+      "id": 92,
+      "keyword": "角球讓球怎麼投注？規則說明",
+      "category": "足球投注",
+      "angle": "疑問句型",
+      "image_theme": "corner kick handicap betting rules",
+      "status": "available",
+      "writing_style": "規則說明，含策略建議，1000字"
+    },
+    {
+      "id": 93,
+      "keyword": "足球入球大細怎麼投注？完整攻略",
+      "category": "足球投注",
+      "angle": "教學攻略型",
+      "image_theme": "football goals over under betting guide",
+      "status": "available",
+      "writing_style": "大小球投注攻略，含統計數據，1100字"
+    },
+    {
+      "id": 94,
+      "keyword": "體育投注大小盤是什麼？投注方法",
+      "category": "通用策略",
+      "angle": "疑問句型",
+      "image_theme": "over under totals sports betting explained",
+      "status": "available",
+      "writing_style": "概念入門，含各運動差異，1100字"
+    },
+    {
+      "id": 95,
+      "keyword": "足球投注技巧：新手必學的7個方法",
+      "category": "足球投注",
+      "angle": "教學攻略型",
+      "image_theme": "football betting tips seven methods beginners",
+      "status": "available",
+      "writing_style": "清單格式，7個技巧+數據，1300字"
+    },
+    {
+      "id": 96,
+      "keyword": "足球投注策略完整教學",
+      "category": "足球投注",
+      "angle": "教學攻略型",
+      "image_theme": "football betting strategy complete tutorial",
+      "status": "available",
+      "writing_style": "策略框架，3種核心策略，1300字"
+    },
+    {
+      "id": 97,
+      "keyword": "足球賠率計算機使用方法",
+      "category": "足球投注",
+      "angle": "工具教學型",
+      "image_theme": "football odds calculator tool tutorial",
+      "status": "available",
+      "writing_style": "工具教學，含利潤計算，1000字"
+    },
+    {
+      "id": 98,
+      "keyword": "英超投注策略與盤口分析",
+      "category": "足球投注",
+      "angle": "分析師型",
+      "image_theme": "premier league betting strategy analysis",
+      "status": "available",
+      "writing_style": "分析師語氣，含歷史數據，1200字"
+    },
+    {
+      "id": 99,
+      "keyword": "足球投注分析：賽前研究5個步驟",
+      "category": "足球投注",
+      "angle": "教學攻略型",
+      "image_theme": "football pre-match research five steps analysis",
+      "status": "available",
+      "writing_style": "步驟框架，每步有具體行動，1300字"
+    },
+    {
+      "id": 100,
+      "keyword": "合法博彩投注：香港體育投注入門",
+      "category": "帳戶管理",
+      "angle": "教學攻略型",
+      "image_theme": "legal sports betting hong kong beginner guide",
+      "status": "available",
+      "writing_style": "合規框架，含渠道說明，1000字"
+    },
+    {
+      "id": 101,
+      "keyword": "賭波過關怎麼計算？串關教學",
+      "category": "足球投注",
+      "angle": "教學攻略型",
+      "image_theme": "football parlay calculation tutorial betting",
+      "status": "available",
+      "writing_style": "計算教學，含賠率累乘，1100字"
+    },
+    {
+      "id": 102,
+      "keyword": "香港足球網上投注平台選擇攻略",
+      "category": "帳戶管理",
+      "angle": "教學攻略型",
+      "image_theme": "hong kong football online betting platform guide",
+      "status": "available",
+      "writing_style": "平台選擇指南，含安全性考量，1200字"
+    },
+    {
+      "id": 103,
+      "keyword": "亞洲盤 vs 歐洲盤：賠率結構深度比較",
+      "category": "足球投注",
+      "angle": "數據比較型",
+      "image_theme": "asian european handicap odds structure comparison",
+      "status": "available",
+      "writing_style": "深度對比，含回本率分析，1300字"
+    },
+    {
+      "id": 104,
+      "keyword": "賽馬投注方式比較：哪種回報最高？",
+      "category": "賽馬投注",
+      "angle": "數據比較型",
+      "image_theme": "horse racing bet type return comparison",
+      "status": "available",
+      "writing_style": "比較分析，含歷史派彩數據，1200字"
     }
   ]
 }
