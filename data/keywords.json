@@ -83,8 +83,10 @@
       "category": "籃球電競",
       "angle": "疑問句型",
       "image_theme": "esports vs traditional sports betting",
-      "status": "available",
-      "writing_style": "比較分析，含風險差異，1100字"
+      "status": "used",
+      "writing_style": "比較分析，含風險差異，1100字",
+      "slug": "esports-vs-traditional-betting-basketball",
+      "used_date": "2026-05-21"
     },
     {
       "id": 9,
