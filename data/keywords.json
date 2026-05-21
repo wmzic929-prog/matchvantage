@@ -72,8 +72,10 @@
       "category": "籃球電競",
       "angle": "疑問句型",
       "image_theme": "NBA basketball spread betting",
-      "status": "available",
-      "writing_style": "概念解釋+實例，適合新手，1000字"
+      "status": "used",
+      "writing_style": "概念解釋+實例，適合新手，1000字",
+      "slug": "nba-handicap-betting-explained",
+      "used_date": "2026-05-21"
     },
     {
       "id": 8,
