@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "esports-vs-traditional-betting-basketball",
+      "title": "電競投注 vs 傳統體育：籃球電競有咩唔同？",
+      "category": "籃球電競",
+      "date": "2026-05-21",
+      "excerpt": "好多人問我，電競投注同傳統體育真係好唔同咩？尤其係籃球電競，我哋要點樣調整策略先贏到錢？",
+      "imageUrl": "https://pixabay.com/get/g6d2306129cd47bfbcc23d726194ea0d863533517c96c5744530991d0975ac4187f4f236e4d41f9482cf0e34ce1beb31304bb7731659a7d332dc5a11b761f542f_640.jpg"
+    },
+    {
       "slug": "nba-handicap-betting-explained",
       "title": "NBA讓分盤攻略：新手必讀，點解讓分咁重要？",
       "category": "籃球電競",
@@ -15,14 +23,6 @@
       "date": "2026-05-20",
       "excerpt": "每次睇波賭大小球都輸到入肉？我明你感受！今日就等我帶你拆解籃球大小球嘅奧秘，學識點樣提升勝率！",
       "imageUrl": "/blog/img/basketball-over-under-betting-guide.jpg"
-    },
-    {
-      "slug": "football-odds-fluctuation-meaning",
-      "title": "足球賠率波動點解？揭示數據背後嘅投注秘密",
-      "category": "足球投注",
-      "date": "2026-05-19",
-      "excerpt": "每次落注前見到賠率上上落落，你係咪都心大心細，唔知點解會咁？其實賠率波動背後大有學問！",
-      "imageUrl": "/blog/img/football-odds-fluctuation-meaning.jpg"
     }
   ]
 }
