@@ -6,6 +6,14 @@
       "category": "General",
       "date": "2026-05-22",
       "excerpt": "```json",
+      "imageUrl": "https://pixabay.com/get/gd03c939884cc646448d73253240036800e7346e375b9782bf3388ac7f6327d45d44f859b97cf0b744b056744881f21f5dd777e760dce04c10d520e9b7a02e280_640.jpg"
+    },
+    {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-05-22",
+      "excerpt": "```json",
       "imageUrl": "https://pixabay.com/get/gf36ff25f6a733acb3a0f581e788eecb7902abbb8ada3dadb51dbf0e01d43d35cb3678d7b9179762d9162b0c97a5537ffcea0ecba04d4c0a88a57cc0c2af95132_640.jpg"
     },
     {
@@ -15,14 +23,6 @@
       "date": "2026-05-22",
       "excerpt": "{",
       "imageUrl": "https://pixabay.com/get/g10ab7212b023709ac8358f4f90d79d2b6983c5af6e8a1a197bccfcdaef00b3fc89028e463a4897ed12360abb90e5b0c8ea0bdfc0c93c027ad462915949f94ef5_640.jpg"
-    },
-    {
-      "slug": "esports-vs-traditional-betting-basketball",
-      "title": "電競投注 vs 傳統體育：籃球電競有咩唔同？",
-      "category": "籃球電競",
-      "date": "2026-05-21",
-      "excerpt": "好多人問我，電競投注同傳統體育真係好唔同咩？尤其係籃球電競，我哋要點樣調整策略先贏到錢？",
-      "imageUrl": "https://pixabay.com/get/g6d2306129cd47bfbcc23d726194ea0d863533517c96c5744530991d0975ac4187f4f236e4d41f9482cf0e34ce1beb31304bb7731659a7d332dc5a11b761f542f_640.jpg"
     }
   ]
 }
