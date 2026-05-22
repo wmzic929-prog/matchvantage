@@ -105,8 +105,10 @@
       "category": "通用策略",
       "angle": "疑問句型",
       "image_theme": "kelly criterion formula mathematics betting",
-      "status": "available",
-      "writing_style": "公式拆解+計算範例，1300字"
+      "status": "used",
+      "writing_style": "公式拆解+計算範例，1300字",
+      "slug": "article",
+      "used_date": "2026-05-22"
     },
     {
       "id": 11,
