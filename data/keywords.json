@@ -171,8 +171,10 @@
       "category": "足球投注",
       "angle": "疑問句型",
       "image_theme": "home away advantage football statistics",
-      "status": "available",
-      "writing_style": "統計分析，含主客場勝率數據，1200字"
+      "status": "used",
+      "writing_style": "統計分析，含主客場勝率數據，1200字",
+      "slug": "football-home-away-handicap-impact",
+      "used_date": "2026-05-24"
     },
     {
       "id": 17,
