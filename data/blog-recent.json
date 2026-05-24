@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "sports-betting-fund-management-guide",
+      "title": "體育投注資金管理秘訣：穩賺不賠點做到？",
+      "category": "通用策略",
+      "date": "2026-05-24",
+      "excerpt": "講起體育投注，好多人淨係諗點贏錢，但我哋資深玩家都知道，最緊要係點樣管理好自己啲錢，你係咪都咁諗？",
+      "imageUrl": "https://pixabay.com/get/gbc7cc33ff91aa68c8956920ecfa91091229b93324932d96a1de14eab887246efa686bca17e9ff015e9aa28a2f952aeb7f9ce1e9825af43ce66f799e9ab8a7cfd_640.jpg"
+    },
+    {
       "slug": "football-home-away-handicap-impact",
       "title": "足球主客場優勢：讓球盤策略點樣玩轉？",
       "category": "足球投注",
@@ -15,14 +23,6 @@
       "date": "2026-05-24",
       "excerpt": "我哋香港人投注足球，十個有九個都鍾意玩亞洲盤，但究竟背後有咩原因？今日等我同大家拆解下！",
       "imageUrl": "https://pixabay.com/get/g8c2da7adfe46cf2b4e139b6e5a4f1f7026f31fe114a1a05417a27b3dc3518a45cd64009e42c20fcc4099c672574d042ede6340df797379d8332ff8f5cb56c930_640.jpg"
-    },
-    {
-      "slug": "article",
-      "title": "article",
-      "category": "General",
-      "date": "2026-05-23",
-      "excerpt": "{",
-      "imageUrl": "https://pixabay.com/get/g990c61b329bcea3bcd7e9357c0cce8c2944a30fcb5f57b376525e72af3b23c572baca095b60cc668847e96c8ba7d0c7b2cf7b14d34bb114e49a974ed5f3279ea_640.jpg"
     }
   ]
 }
