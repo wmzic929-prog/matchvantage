@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "why-hong-kong-bettors-prefer-asian-handicap",
+      "title": "香港投注者點解鍾情亞洲盤？策略分析與實戰技巧",
+      "category": "足球投注",
+      "date": "2026-05-24",
+      "excerpt": "我哋香港人投注足球，十個有九個都鍾意玩亞洲盤，但究竟背後有咩原因？今日等我同大家拆解下！",
+      "imageUrl": "https://pixabay.com/get/g8c2da7adfe46cf2b4e139b6e5a4f1f7026f31fe114a1a05417a27b3dc3518a45cd64009e42c20fcc4099c672574d042ede6340df797379d8332ff8f5cb56c930_640.jpg"
+    },
+    {
       "slug": "article",
       "title": "article",
       "category": "General",
@@ -15,14 +23,6 @@
       "date": "2026-05-23",
       "excerpt": "每次網球投注都想贏大錢？但係點樣睇透盤口背後嘅玄機，真係考起唔少人！",
       "imageUrl": "https://pixabay.com/get/gd5bcbf222212a80801cf07be13be4d8077e913441c27f74b5c21e2b6a5c321961399df82115f4862b0fcfc73b760191daaf6159557c168ce98541d5370a182cc_640.jpg"
-    },
-    {
-      "slug": "sports-betting-beginners-which-sport",
-      "title": "新手投注邊個運動好？體育博彩入門精選指南",
-      "category": "通用策略",
-      "date": "2026-05-23",
-      "excerpt": "初次接觸體育投注，你係咪都覺得眼花繚亂，唔知從何入手？我明你嘅感受，所以特意為你準備咗呢篇入門攻略！",
-      "imageUrl": "https://pixabay.com/get/ge43af4e82007533c33339b987366c3fef03039162e92eebd526c5fac8736a40e63f2ab1102fec712e63f7f84044cc19dd675b5105d001a711a6e102233ef05ac_640.jpg"
     }
   ]
 }
