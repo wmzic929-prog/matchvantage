@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article-19",
+      "title": "英超投注最常見的陷阱是什麼？",
+      "category": "足球投注",
+      "date": "2026-05-25",
+      "excerpt": "{",
+      "imageUrl": "https://pixabay.com/get/gabb2c6710ad22e63e364b3a266238fb8175667d78a2336ccae24dc675dcbd126cc090621b204986d69413b8907e64e063eadfd820d1acb70c5192ec36494ed23_640.jpg"
+    },
+    {
       "slug": "how-to-read-football-odds",
       "title": "點樣睇波膽賠率？足球盤口分析入門攻略",
       "category": "足球投注",
@@ -15,14 +23,6 @@
       "date": "2026-05-24",
       "excerpt": "講起體育投注，好多人淨係諗點贏錢，但我哋資深玩家都知道，最緊要係點樣管理好自己啲錢，你係咪都咁諗？",
       "imageUrl": "https://pixabay.com/get/gbc7cc33ff91aa68c8956920ecfa91091229b93324932d96a1de14eab887246efa686bca17e9ff015e9aa28a2f952aeb7f9ce1e9825af43ce66f799e9ab8a7cfd_640.jpg"
-    },
-    {
-      "slug": "football-home-away-handicap-impact",
-      "title": "足球主客場優勢：讓球盤策略點樣玩轉？",
-      "category": "足球投注",
-      "date": "2026-05-24",
-      "excerpt": "我哋成日聽人講主場有優勢，但究竟呢個優勢喺足球讓球盤入面有幾大影響力？",
-      "imageUrl": "https://pixabay.com/get/gc6ef0116433dad26cfa491e00ad3b3370d6eca8bf932ae2be9e50b8120e52b8284e5f39ee3dd319fd2672f9acf73fe6a_640.jpg"
     }
   ]
 }
