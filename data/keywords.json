@@ -193,8 +193,10 @@
       "category": "足球投注",
       "angle": "疑問句型",
       "image_theme": "football odds board reading tutorial",
-      "status": "available",
-      "writing_style": "圖解教學風格，1000字"
+      "status": "used",
+      "writing_style": "圖解教學風格，1000字",
+      "slug": "how-to-read-football-odds",
+      "used_date": "2026-05-25"
     },
     {
       "id": 19,
