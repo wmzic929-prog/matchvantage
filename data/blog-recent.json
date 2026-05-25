@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "cs2",
+      "title": "CS2電競投注怎麼分析隊伍？",
+      "category": "籃球電競",
+      "date": "2026-05-25",
+      "excerpt": "{",
+      "imageUrl": "/blog/img/cs2.jpg"
+    },
+    {
       "slug": "article-19",
       "title": "英超投注最常見的陷阱是什麼？",
       "category": "足球投注",
@@ -15,14 +23,6 @@
       "date": "2026-05-25",
       "excerpt": "每次睇住賠率板，係咪都覺得一頭霧水，唔知點落手？我明你感受，其實好多人都係咁！",
       "imageUrl": "/blog/img/how-to-read-football-odds.jpg"
-    },
-    {
-      "slug": "sports-betting-fund-management-guide",
-      "title": "體育投注資金管理秘訣：穩賺不賠點做到？",
-      "category": "通用策略",
-      "date": "2026-05-24",
-      "excerpt": "講起體育投注，好多人淨係諗點贏錢，但我哋資深玩家都知道，最緊要係點樣管理好自己啲錢，你係咪都咁諗？",
-      "imageUrl": "/blog/img/sports-betting-fund-management-guide.jpg"
     }
   ]
 }
