@@ -94,10 +94,8 @@
       "category": "籃球電競",
       "angle": "疑問句型",
       "image_theme": "CS2 esports team analysis statistics",
-      "status": "used",
-      "writing_style": "數據分析師語氣，含KDA等指標，1200字",
-      "slug": "article",
-      "used_date": "2026-05-22"
+      "status": "available",
+      "writing_style": "數據分析師語氣，含KDA等指標，1200字"
     },
     {
       "id": 10,
@@ -105,10 +103,8 @@
       "category": "通用策略",
       "angle": "疑問句型",
       "image_theme": "kelly criterion formula mathematics betting",
-      "status": "used",
-      "writing_style": "公式拆解+計算範例，1300字",
-      "slug": "article",
-      "used_date": "2026-05-22"
+      "status": "available",
+      "writing_style": "公式拆解+計算範例，1300字"
     },
     {
       "id": 11,
@@ -116,10 +112,8 @@
       "category": "通用策略",
       "angle": "疑問句型",
       "image_theme": "stop loss strategy sports betting bankroll",
-      "status": "used",
-      "writing_style": "風險管理框架，含百分比建議，1100字",
-      "slug": "article",
-      "used_date": "2026-05-22"
+      "status": "available",
+      "writing_style": "風險管理框架，含百分比建議，1100字"
     },
     {
       "id": 12,
@@ -149,10 +143,8 @@
       "category": "通用策略",
       "angle": "疑問句型",
       "image_theme": "player injury news betting strategy adjust",
-      "status": "used",
-      "writing_style": "實戰技巧，含案例分析，1200字",
-      "slug": "article",
-      "used_date": "2026-05-23"
+      "status": "available",
+      "writing_style": "實戰技巧，含案例分析，1200字"
     },
     {
       "id": 15,
@@ -204,10 +196,8 @@
       "category": "足球投注",
       "angle": "疑問句型",
       "image_theme": "premier league betting traps mistakes",
-      "status": "used",
-      "writing_style": "警示清單，含真實案例，1100字",
-      "slug": "article-19",
-      "used_date": "2026-05-25"
+      "status": "available",
+      "writing_style": "警示清單，含真實案例，1100字"
     },
     {
       "id": 20,
