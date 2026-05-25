@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "how-to-read-football-odds",
+      "title": "點樣睇波膽賠率？足球盤口分析入門攻略",
+      "category": "足球投注",
+      "date": "2026-05-25",
+      "excerpt": "每次睇住賠率板，係咪都覺得一頭霧水，唔知點落手？我明你感受，其實好多人都係咁！",
+      "imageUrl": "https://pixabay.com/get/g7d09d4f0b738bee1cb9a39ba51ec757987876c7e5d43a9fe88ce0ddee571e8353c81aaa6ac0d3793afd1cce3d5a65734c8b5bf956d7fad05da98b687fda22e97_640.jpg"
+    },
+    {
       "slug": "sports-betting-fund-management-guide",
       "title": "體育投注資金管理秘訣：穩賺不賠點做到？",
       "category": "通用策略",
@@ -15,14 +23,6 @@
       "date": "2026-05-24",
       "excerpt": "我哋成日聽人講主場有優勢，但究竟呢個優勢喺足球讓球盤入面有幾大影響力？",
       "imageUrl": "https://pixabay.com/get/gc6ef0116433dad26cfa491e00ad3b3370d6eca8bf932ae2be9e50b8120e52b8284e5f39ee3dd319fd2672f9acf73fe6a_640.jpg"
-    },
-    {
-      "slug": "why-hong-kong-bettors-prefer-asian-handicap",
-      "title": "香港投注者點解鍾情亞洲盤？策略分析與實戰技巧",
-      "category": "足球投注",
-      "date": "2026-05-24",
-      "excerpt": "我哋香港人投注足球，十個有九個都鍾意玩亞洲盤，但究竟背後有咩原因？今日等我同大家拆解下！",
-      "imageUrl": "https://pixabay.com/get/g8c2da7adfe46cf2b4e139b6e5a4f1f7026f31fe114a1a05417a27b3dc3518a45cd64009e42c20fcc4099c672574d042ede6340df797379d8332ff8f5cb56c930_640.jpg"
     }
   ]
 }
