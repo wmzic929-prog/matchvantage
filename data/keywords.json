@@ -94,8 +94,10 @@
       "category": "籃球電競",
       "angle": "疑問句型",
       "image_theme": "CS2 esports team analysis statistics",
-      "status": "available",
-      "writing_style": "數據分析師語氣，含KDA等指標，1200字"
+      "status": "used",
+      "writing_style": "數據分析師語氣，含KDA等指標，1200字",
+      "slug": "cs2",
+      "used_date": "2026-05-25"
     },
     {
       "id": 10,
