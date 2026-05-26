@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "kelly-criterion-sports-betting-guide",
+      "title": "凱利公式體育投注實戰：點樣計算最佳注碼？",
+      "category": "通用策略",
+      "date": "2026-05-26",
+      "excerpt": "每次落注前，你係咪都糾結注碼應該幾多？我以前都係咁，亂咁賭真係蝕到入肉！直至我學識凱利公式，先知原來有科學方法可以管理風險同回報。",
+      "imageUrl": "/blog/img/kelly-criterion-sports-betting-guide.jpg"
+    },
+    {
       "slug": "cs2",
       "title": "CS2電競投注怎麼分析隊伍？",
       "category": "籃球電競",
@@ -15,14 +23,6 @@
       "date": "2026-05-25",
       "excerpt": "{",
       "imageUrl": "/blog/img/article-19.jpg"
-    },
-    {
-      "slug": "how-to-read-football-odds",
-      "title": "點樣睇波膽賠率？足球盤口分析入門攻略",
-      "category": "足球投注",
-      "date": "2026-05-25",
-      "excerpt": "每次睇住賠率板，係咪都覺得一頭霧水，唔知點落手？我明你感受，其實好多人都係咁！",
-      "imageUrl": "/blog/img/how-to-read-football-odds.jpg"
     }
   ]
 }
