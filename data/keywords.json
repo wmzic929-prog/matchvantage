@@ -149,8 +149,10 @@
       "category": "通用策略",
       "angle": "疑問句型",
       "image_theme": "player injury news betting strategy adjust",
-      "status": "available",
-      "writing_style": "實戰技巧，含案例分析，1200字"
+      "status": "used",
+      "writing_style": "實戰技巧，含案例分析，1200字",
+      "slug": "injury-news-betting-strategy-adjustment",
+      "used_date": "2026-05-26"
     },
     {
       "id": 15,
