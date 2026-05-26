@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "lol-esports-betting-key-indicators",
+      "title": "LOL電競投注攻略：關鍵指標助你洞悉戰局",
+      "category": "籃球電競",
+      "date": "2026-05-26",
+      "excerpt": "玩LOL電競投注，淨係靠感覺好難贏錢。究竟有咩關鍵指標係我哋一定要知，先可以準確預測賽果，贏到盆滿缽滿？",
+      "imageUrl": "/blog/img/lol-esports-betting-key-indicators.jpg"
+    },
+    {
       "slug": "premier-league-betting-pitfalls",
       "title": "英超投注陷阱：識破常見誤區，提升勝率攻略",
       "category": "足球投注",
@@ -15,14 +23,6 @@
       "date": "2026-05-26",
       "excerpt": "講真，有時一條傷病消息，真係可以搞亂晒我哋嘅投注部署！究竟點樣有效利用呢啲資訊，轉危為機？",
       "imageUrl": "/blog/img/injury-news-betting-strategy-adjustment.jpg"
-    },
-    {
-      "slug": "sports-betting-stop-loss-guide",
-      "title": "體育投注停損點點樣設？新手必讀風險管理策略，控制注碼避大輸，長遠獲利秘訣大公開",
-      "category": "通用策略",
-      "date": "2026-05-26",
-      "excerpt": "每次落注都心驚驚？我哋都試過一時衝動輸大錢。想玩得安心又長遠，設定停損點絕對係關鍵！",
-      "imageUrl": "/blog/img/sports-betting-stop-loss-guide.jpg"
     }
   ]
 }
