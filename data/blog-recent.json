@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "injury-news-betting-strategy-adjustment",
+      "title": "傷病消息點影響你投注？學識調整策略贏更多！",
+      "category": "通用策略",
+      "date": "2026-05-26",
+      "excerpt": "講真，有時一條傷病消息，真係可以搞亂晒我哋嘅投注部署！究竟點樣有效利用呢啲資訊，轉危為機？",
+      "imageUrl": "/blog/img/injury-news-betting-strategy-adjustment.jpg"
+    },
+    {
       "slug": "sports-betting-stop-loss-guide",
       "title": "體育投注停損點點樣設？新手必讀風險管理策略，控制注碼避大輸，長遠獲利秘訣大公開",
       "category": "通用策略",
@@ -15,14 +23,6 @@
       "date": "2026-05-26",
       "excerpt": "每次落注前，你係咪都糾結注碼應該幾多？我以前都係咁，亂咁賭真係蝕到入肉！直至我學識凱利公式，先知原來有科學方法可以管理風險同回報。",
       "imageUrl": "/blog/img/kelly-criterion-sports-betting-guide.jpg"
-    },
-    {
-      "slug": "cs2",
-      "title": "CS2電競投注怎麼分析隊伍？",
-      "category": "籃球電競",
-      "date": "2026-05-25",
-      "excerpt": "{",
-      "imageUrl": "/blog/img/cs2.jpg"
     }
   ]
 }
