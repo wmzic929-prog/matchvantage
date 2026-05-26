@@ -226,8 +226,10 @@
       "category": "足球投注",
       "angle": "數據比較型",
       "image_theme": "european leagues handicap accuracy statistics 2025",
-      "status": "available",
-      "writing_style": "數據報告格式，含比較表格，1200字"
+      "status": "used",
+      "writing_style": "數據報告格式，含比較表格，1200字",
+      "slug": "2025-european-top-leagues-handicap-win-rate-comparison",
+      "used_date": "2026-05-26"
     },
     {
       "id": 22,
