@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "sports-betting-stop-loss-guide",
+      "title": "體育投注停損點點樣設？新手必讀風險管理策略，控制注碼避大輸，長遠獲利秘訣大公開",
+      "category": "通用策略",
+      "date": "2026-05-26",
+      "excerpt": "每次落注都心驚驚？我哋都試過一時衝動輸大錢。想玩得安心又長遠，設定停損點絕對係關鍵！",
+      "imageUrl": "/blog/img/sports-betting-stop-loss-guide.jpg"
+    },
+    {
       "slug": "kelly-criterion-sports-betting-guide",
       "title": "凱利公式體育投注實戰：點樣計算最佳注碼？",
       "category": "通用策略",
@@ -15,14 +23,6 @@
       "date": "2026-05-25",
       "excerpt": "{",
       "imageUrl": "/blog/img/cs2.jpg"
-    },
-    {
-      "slug": "article-19",
-      "title": "英超投注最常見的陷阱是什麼？",
-      "category": "足球投注",
-      "date": "2026-05-25",
-      "excerpt": "{",
-      "imageUrl": "/blog/img/article-19.jpg"
     }
   ]
 }
