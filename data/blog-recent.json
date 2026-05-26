@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "premier-league-betting-pitfalls",
+      "title": "英超投注陷阱：識破常見誤區，提升勝率攻略",
+      "category": "足球投注",
+      "date": "2026-05-26",
+      "excerpt": "講到英超投注，好多波友都想贏大錢，但往往唔小心就跌入陷阱。我哋作為資深玩家，深明箇中苦況！",
+      "imageUrl": "/blog/img/premier-league-betting-pitfalls.jpg"
+    },
+    {
       "slug": "injury-news-betting-strategy-adjustment",
       "title": "傷病消息點影響你投注？學識調整策略贏更多！",
       "category": "通用策略",
@@ -15,14 +23,6 @@
       "date": "2026-05-26",
       "excerpt": "每次落注都心驚驚？我哋都試過一時衝動輸大錢。想玩得安心又長遠，設定停損點絕對係關鍵！",
       "imageUrl": "/blog/img/sports-betting-stop-loss-guide.jpg"
-    },
-    {
-      "slug": "kelly-criterion-sports-betting-guide",
-      "title": "凱利公式體育投注實戰：點樣計算最佳注碼？",
-      "category": "通用策略",
-      "date": "2026-05-26",
-      "excerpt": "每次落注前，你係咪都糾結注碼應該幾多？我以前都係咁，亂咁賭真係蝕到入肉！直至我學識凱利公式，先知原來有科學方法可以管理風險同回報。",
-      "imageUrl": "/blog/img/kelly-criterion-sports-betting-guide.jpg"
     }
   ]
 }
