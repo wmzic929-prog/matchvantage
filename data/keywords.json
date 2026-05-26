@@ -248,8 +248,10 @@
       "category": "足球投注",
       "angle": "數據比較型",
       "image_theme": "asian vs european handicap ROI comparison",
-      "status": "available",
-      "writing_style": "量化比較，含模擬計算，1200字"
+      "status": "used",
+      "writing_style": "量化比較，含模擬計算，1200字",
+      "slug": "asian-handicap-vs-european-odds-long-term-returns",
+      "used_date": "2026-05-26"
     },
     {
       "id": 24,
