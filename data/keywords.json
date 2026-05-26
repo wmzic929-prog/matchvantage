@@ -237,8 +237,10 @@
       "category": "籃球電競",
       "angle": "數據比較型",
       "image_theme": "NBA playoffs spread accuracy historical data",
-      "status": "available",
-      "writing_style": "歷史數據分析，含年份對比，1100字"
+      "status": "used",
+      "writing_style": "歷史數據分析，含年份對比，1100字",
+      "slug": "nba-playoff-handicap-hit-rate-history",
+      "used_date": "2026-05-26"
     },
     {
       "id": 23,
