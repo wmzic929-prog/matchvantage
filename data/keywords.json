@@ -281,8 +281,10 @@
       "category": "足球投注",
       "angle": "數據比較型",
       "image_theme": "football first half full time betting comparison",
-      "status": "available",
-      "writing_style": "統計比較，含勝率百分比，1100字"
+      "status": "used",
+      "writing_style": "統計比較，含勝率百分比，1100字",
+      "slug": "football-first-half-vs-full-time-betting-strategy",
+      "used_date": "2026-05-26"
     },
     {
       "id": 27,
