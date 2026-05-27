@@ -303,8 +303,10 @@
       "category": "足球投注",
       "angle": "數據比較型",
       "image_theme": "premier league handicap market stable data 2025",
-      "status": "available",
-      "writing_style": "數據報告，含穩定性指標，1200字"
+      "status": "used",
+      "writing_style": "數據報告，含穩定性指標，1200字",
+      "slug": "2025-epl-handicap-stable-data-analysis",
+      "used_date": "2026-05-27"
     },
     {
       "id": 29,
