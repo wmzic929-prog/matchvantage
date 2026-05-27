@@ -325,8 +325,10 @@
       "category": "通用策略",
       "angle": "數據比較型",
       "image_theme": "fixed stake vs kelly criterion bankroll comparison",
-      "status": "available",
-      "writing_style": "策略對比，含模擬計算，1300字"
+      "status": "used",
+      "writing_style": "策略對比，含模擬計算，1300字",
+      "slug": "bankroll-vs",
+      "used_date": "2026-05-27"
     },
     {
       "id": 31,
