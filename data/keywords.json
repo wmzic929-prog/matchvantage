@@ -314,8 +314,10 @@
       "category": "籃球電競",
       "angle": "數據比較型",
       "image_theme": "basketball vs football long term betting ROI",
-      "status": "available",
-      "writing_style": "量化比較+建議，1100字"
+      "status": "used",
+      "writing_style": "量化比較+建議，1100字",
+      "slug": "basketball-vs-football-long-term-betting-strategy",
+      "used_date": "2026-05-27"
     },
     {
       "id": 30,
