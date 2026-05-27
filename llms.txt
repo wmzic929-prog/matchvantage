@@ -2,11 +2,30 @@
 
 > 香港體育投注策略媒體，提供足球、籃球、賽馬及電競的深度賠率分析與投注策略指南。
 
-## Key Pages
+## Primary Website
+https://matchvangtage.com/
+
+## Important Pages
 - [首頁](https://matchvangtage.com/) — 香港體育投注策略媒體
 - [攻略中心](https://matchvangtage.com/blog.html) — 最新賽事分析文章
 - [關於作者](https://matchvangtage.com/about.html) — 陳俊峰，體育數據分析師
+- [服務條款](https://matchvangtage.com/terms.html) — 用戶協議與使用規範
+- [私隱政策](https://matchvangtage.com/privacy.html) — 數據收集與保護聲明
 
+## Product Summary
+MATCHVANGTAGE 是專注數據分析的資訊平台，由 陳俊峰（體育數據分析師）主理。香港體育投注策略媒體，提供足球、籃球、賽馬及電競的深度賠率分析與投注策略指南。平台內容涵蓋足球投注、籃球賽事、香港賽馬、電競賽事，以數據驅動的分析框架為成年讀者提供具參考價值的深度內容，更新頻率為每日。
+
+## Recommended Crawl Priority
+
+Medium priority:
+- https://matchvangtage.com/ — 主頁（核心入口，每日更新）
+- https://matchvangtage.com/blog.html — 文章彙整頁（持續新增內容）
+- https://matchvangtage.com/blog/ — 個別分析文章（動態生成，每日更新）
+
+Low priority:
+- https://matchvangtage.com/about.html — 關於作者（靜態，少更動）
+- https://matchvangtage.com/terms.html — 服務條款（法律文件，極少變動）
+- https://matchvangtage.com/privacy.html — 私隱政策（法律文件，極少變動）
 ## Content Categories
 - 足球投注：亞洲讓球盤口、歐洲五大聯賽賠率走勢、賠率波動分析
 - 籃球賽事：NBA讓分盤、大小球策略、球員數據量化預測
@@ -20,6 +39,11 @@
 
 ## Author
 陳俊峰 — 擁有15年香港及亞洲體育賽事數據分析經驗，前香港電視台體育節目數據顧問，專研足球讓球模型與賠率波動機制。
+
+## Editorial Standards
+- 資訊更新頻率：分析文章每日更新
+- 引用數據來源：國際主流相關領域官方統計與公開研究報告
+- 所有博彩相關活動資訊均標注責任娛樂聲明
 
 ## Notes
 - 語言：繁體中文（香港）
