@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "bankroll-vs",
+      "title": "體育投注bankroll管理：固定金額 vs 凱利公式",
+      "category": "通用策略",
+      "date": "2026-05-27",
+      "excerpt": "```json",
+      "imageUrl": "/blog/img/bankroll-vs.jpg"
+    },
+    {
       "slug": "basketball-vs-football-long-term-betting-strategy",
       "title": "籃球 vs 足球：長期投注邊個贏？數據比較策略分析",
       "category": "籃球電競",
@@ -15,14 +23,6 @@
       "date": "2026-05-27",
       "excerpt": "講起英超讓球盤，係咪成日覺得捉摸唔到？我哋今日就用2025年數據，幫你拆解邊個市場最穩定，搵出贏錢玄機！",
       "imageUrl": "/blog/img/2025-epl-handicap-stable-data-analysis.jpg"
-    },
-    {
-      "slug": "hong-kong-legal-sports-betting-odds-comparison",
-      "title": "香港合法體育投注平台賠率比較攻略 | 搵最高回報",
-      "category": "帳戶管理",
-      "date": "2026-05-26",
-      "excerpt": "我哋香港人玩體育投注，梗係想贏到盡！但咁多合法平台，賠率花多眼亂，究竟點揀先至最著數？",
-      "imageUrl": "/blog/img/hong-kong-legal-sports-betting-odds-comparison.jpg"
     }
   ]
 }
