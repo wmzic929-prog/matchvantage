@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "basketball-vs-football-long-term-betting-strategy",
+      "title": "籃球 vs 足球：長期投注邊個贏？數據比較策略分析",
+      "category": "籃球電競",
+      "date": "2026-05-27",
+      "excerpt": "講到長期投注，究竟籃球定足球更穩陣？我哋班資深玩家都想知，今次就用數據話你知！",
+      "imageUrl": "/blog/img/basketball-vs-football-long-term-betting-strategy.jpg"
+    },
+    {
       "slug": "2025-epl-handicap-stable-data-analysis",
       "title": "2025年英超讓球盤數據分析：發掘最穩贏錢策略",
       "category": "足球投注",
@@ -15,14 +23,6 @@
       "date": "2026-05-26",
       "excerpt": "我哋香港人玩體育投注，梗係想贏到盡！但咁多合法平台，賠率花多眼亂，究竟點揀先至最著數？",
       "imageUrl": "/blog/img/hong-kong-legal-sports-betting-odds-comparison.jpg"
-    },
-    {
-      "slug": "football-first-half-vs-full-time-betting-strategy",
-      "title": "足球上半場定全場投注？數據分析邊種勝率更高",
-      "category": "足球投注",
-      "date": "2026-05-26",
-      "excerpt": "踢波睇上半場定全場？我哋賭波都一樣！究竟上半場投注定全場投注，邊種策略勝率更高、更易贏錢呢？今日就同大家深入拆解！",
-      "imageUrl": "/blog/img/football-first-half-vs-full-time-betting-strategy.jpg"
     }
   ]
 }
