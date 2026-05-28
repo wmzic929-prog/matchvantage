@@ -347,8 +347,10 @@
       "category": "足球投注",
       "angle": "數據比較型",
       "image_theme": "handicap vs moneyline return comparison",
-      "status": "available",
-      "writing_style": "量化分析，含案例，1200字"
+      "status": "used",
+      "writing_style": "量化分析，含案例，1200字",
+      "slug": "vs",
+      "used_date": "2026-05-28"
     },
     {
       "id": 33,
