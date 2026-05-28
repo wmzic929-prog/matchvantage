@@ -336,8 +336,10 @@
       "category": "足球投注",
       "angle": "數據比較型",
       "image_theme": "tennis grand slam betting accuracy historical",
-      "status": "available",
-      "writing_style": "歷史數據分析，1100字"
+      "status": "used",
+      "writing_style": "歷史數據分析，1100字",
+      "slug": "grand-slam-tennis-odds-accuracy-history-data",
+      "used_date": "2026-05-28"
     },
     {
       "id": 32,
