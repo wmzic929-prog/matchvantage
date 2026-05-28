@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "vs",
+      "title": "讓球 vs 獨贏：哪種投注方式長期回報更高？",
+      "category": "足球投注",
+      "date": "2026-05-28",
+      "excerpt": "{",
+      "imageUrl": "/blog/img/vs.jpg"
+    },
+    {
       "slug": "grand-slam-tennis-odds-accuracy-history-data",
       "title": "網球大滿貫賠率數據點影響足球投注策略？",
       "category": "足球投注",
@@ -15,14 +23,6 @@
       "date": "2026-05-27",
       "excerpt": "```json",
       "imageUrl": "/blog/img/bankroll-vs.jpg"
-    },
-    {
-      "slug": "basketball-vs-football-long-term-betting-strategy",
-      "title": "籃球 vs 足球：長期投注邊個贏？數據比較策略分析",
-      "category": "籃球電競",
-      "date": "2026-05-27",
-      "excerpt": "講到長期投注，究竟籃球定足球更穩陣？我哋班資深玩家都想知，今次就用數據話你知！",
-      "imageUrl": "/blog/img/basketball-vs-football-long-term-betting-strategy.jpg"
     }
   ]
 }
