@@ -380,8 +380,10 @@
       "category": "足球投注",
       "angle": "數據比較型",
       "image_theme": "home advantage data different football leagues",
-      "status": "available",
-      "writing_style": "統計分析報告格式，1100字"
+      "status": "used",
+      "writing_style": "統計分析報告格式，1100字",
+      "slug": "article-35",
+      "used_date": "2026-05-29"
     },
     {
       "id": 36,
