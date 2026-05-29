@@ -391,8 +391,10 @@
       "category": "通用策略",
       "angle": "教學攻略型",
       "image_theme": "bankroll management sports betting guide",
-      "status": "available",
-      "writing_style": "步驟式教學，含試算表範例，1300字"
+      "status": "used",
+      "writing_style": "步驟式教學，含試算表範例，1300字",
+      "slug": "article",
+      "used_date": "2026-05-29"
     },
     {
       "id": 37,
