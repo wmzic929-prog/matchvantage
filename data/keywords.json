@@ -402,8 +402,10 @@
       "category": "足球投注",
       "angle": "教學攻略型",
       "image_theme": "asian handicap betting beginner guide",
-      "status": "available",
-      "writing_style": "從零開始，圖文說明，1200字"
+      "status": "used",
+      "writing_style": "從零開始，圖文說明，1200字",
+      "slug": "article",
+      "used_date": "2026-05-29"
     },
     {
       "id": 38,
