@@ -369,8 +369,10 @@
       "category": "籃球電競",
       "angle": "數據比較型",
       "image_theme": "esports traditional sports betting win rate comparison",
-      "status": "available",
-      "writing_style": "數據對比，含行業統計，1200字"
+      "status": "used",
+      "writing_style": "數據對比，含行業統計，1200字",
+      "slug": "esports-vs-traditional-sports-betting-win-rate-data-comparison",
+      "used_date": "2026-05-29"
     },
     {
       "id": 35,
