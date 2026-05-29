@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "esports-vs-traditional-sports-betting-win-rate-data-comparison",
+      "title": "電競vs傳統體育：籃球投注勝率與策略深度比較 | MatchVantage",
+      "category": "籃球電競",
+      "date": "2026-05-29",
+      "excerpt": "我哋成日都想知，究竟投注電競定係傳統體育，勝率先會高啲？今日就同大家深入拆解數據，睇吓邊個更易贏錢！",
+      "imageUrl": "/blog/img/esports-vs-traditional-sports-betting-win-rate-data-comparison.jpg"
+    },
+    {
       "slug": "article-33",
       "title": "香港體育投注者最常見的五個錯誤",
       "category": "通用策略",
@@ -15,14 +23,6 @@
       "date": "2026-05-28",
       "excerpt": "{",
       "imageUrl": "/blog/img/vs.jpg"
-    },
-    {
-      "slug": "grand-slam-tennis-odds-accuracy-history-data",
-      "title": "網球大滿貫賠率數據點影響足球投注策略？",
-      "category": "足球投注",
-      "date": "2026-05-28",
-      "excerpt": "有冇諗過網球大滿貫嘅賠率數據，其實可以幫到你分析足球比賽？我哋一齊睇下點解呢啲跨運動數據咁重要！",
-      "imageUrl": "/blog/img/grand-slam-tennis-odds-accuracy-history-data.jpg"
     }
   ]
 }
