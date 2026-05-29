@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article-35",
+      "title": "主場優勢在不同聯賽的影響力數據",
+      "category": "足球投注",
+      "date": "2026-05-29",
+      "excerpt": "{",
+      "imageUrl": "/blog/img/article-35.jpg"
+    },
+    {
       "slug": "esports-vs-traditional-sports-betting-win-rate-data-comparison",
       "title": "電競vs傳統體育：籃球投注勝率與策略深度比較 | MatchVantage",
       "category": "籃球電競",
@@ -15,14 +23,6 @@
       "date": "2026-05-28",
       "excerpt": "{",
       "imageUrl": "/blog/img/article-33.jpg"
-    },
-    {
-      "slug": "vs",
-      "title": "讓球 vs 獨贏：哪種投注方式長期回報更高？",
-      "category": "足球投注",
-      "date": "2026-05-28",
-      "excerpt": "{",
-      "imageUrl": "/blog/img/vs.jpg"
     }
   ]
 }
