@@ -435,8 +435,10 @@
       "category": "通用策略",
       "angle": "教學攻略型",
       "image_theme": "pre-match analysis five steps methodology",
-      "status": "available",
-      "writing_style": "框架式教學，每步驟有說明，1300字"
+      "status": "used",
+      "writing_style": "框架式教學，每步驟有說明，1300字",
+      "slug": "pre-match-analysis-five-step-methodology",
+      "used_date": "2026-05-30"
     },
     {
       "id": 41,
