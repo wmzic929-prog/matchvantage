@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-05-30",
+      "excerpt": "{",
+      "imageUrl": "https://pixabay.com/get/g56979117f7d79265036c051b88f4e864627f52dd6e4426a8490b5c24574099574940fe82d65e7ad9e42ea88d7ad99685_640.jpg"
+    },
+    {
       "slug": "cs2-betting-strategy-odds-risk-analysis",
       "title": "電競CS2投注基礎攻略：賽事賠率分析與風險評估研究",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-29",
       "excerpt": "{",
       "imageUrl": "https://pixabay.com/get/g535cc6ca772af1302d36597068f7d6cfbf0440dcbb1b0310d3d1b64d469e59fd5c52a70d71b9c1334b1fd450208f461175ea83f13416b27248352fa2d50c12de_640.jpg"
-    },
-    {
-      "slug": "article",
-      "title": "article",
-      "category": "General",
-      "date": "2026-05-29",
-      "excerpt": "{",
-      "imageUrl": "https://pixabay.com/get/g39d0e3ca9b4bb699340b69497f8387cba6f37c5764339cb6976772feb0938c22b5006ce9194f5628c4ede7b7cc65ceb9adc42254ca57bf0ac0fe31444dff76c3_640.jpg"
     }
   ]
 }
