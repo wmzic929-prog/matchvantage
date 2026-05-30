@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "pre-match-analysis-five-step-methodology",
+      "title": "賽前分析五步驟方法論：香港博彩研究的系統性評估框架與實證應用",
+      "category": "undefined",
+      "date": "2026-05-30",
+      "excerpt": "我哋每次落注前，都想贏到盡，但係齋靠感覺點夠？今日我哋就嚟公開一套獨家賽前分析五步驟，幫你系統性拆解比賽，提升勝率！",
+      "imageUrl": "/blog/img/pre-match-analysis-five-step-methodology.jpg"
+    },
+    {
       "slug": "article",
       "title": "article",
       "category": "General",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "講起電競CS2投注，好多人都覺得好刺激，但又怕亂咁嚟會輸清光。今日我哋就嚟拆解下點樣做到精明投注，唔再做盲頭烏蠅！",
       "imageUrl": "/blog/img/cs2-betting-strategy-odds-risk-analysis.jpg"
-    },
-    {
-      "slug": "article",
-      "title": "article",
-      "category": "General",
-      "date": "2026-05-29",
-      "excerpt": "{",
-      "imageUrl": "https://pixabay.com/get/g535cc6ca772af1302d36597068f7d6cfbf0440dcbb1b0310d3d1b64d469e59fd5c52a70d71b9c1334b1fd450208f461175ea83f13416b27248352fa2d50c12de_640.jpg"
     }
   ]
 }
