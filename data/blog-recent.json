@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "cs2-betting-strategy-odds-risk-analysis",
+      "title": "電競CS2投注基礎攻略：賽事賠率分析與風險評估研究",
+      "category": "undefined",
+      "date": "2026-05-30",
+      "excerpt": "講起電競CS2投注，好多人都覺得好刺激，但又怕亂咁嚟會輸清光。今日我哋就嚟拆解下點樣做到精明投注，唔再做盲頭烏蠅！",
+      "imageUrl": "/blog/img/cs2-betting-strategy-odds-risk-analysis.jpg"
+    },
+    {
       "slug": "article",
       "title": "article",
       "category": "General",
@@ -15,14 +23,6 @@
       "date": "2026-05-29",
       "excerpt": "{",
       "imageUrl": "https://pixabay.com/get/g39d0e3ca9b4bb699340b69497f8387cba6f37c5764339cb6976772feb0938c22b5006ce9194f5628c4ede7b7cc65ceb9adc42254ca57bf0ac0fe31444dff76c3_640.jpg"
-    },
-    {
-      "slug": "article-35",
-      "title": "主場優勢在不同聯賽的影響力數據",
-      "category": "足球投注",
-      "date": "2026-05-29",
-      "excerpt": "{",
-      "imageUrl": "/blog/img/article-35.jpg"
     }
   ]
 }
