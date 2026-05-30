@@ -424,8 +424,10 @@
       "category": "籃球電競",
       "angle": "教學攻略型",
       "image_theme": "NBA basketball betting beginner guide",
-      "status": "available",
-      "writing_style": "系統性入門，1200字"
+      "status": "used",
+      "writing_style": "系統性入門，1200字",
+      "slug": "article",
+      "used_date": "2026-05-30"
     },
     {
       "id": 40,
