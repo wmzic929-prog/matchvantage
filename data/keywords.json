@@ -413,8 +413,10 @@
       "category": "籃球電競",
       "angle": "教學攻略型",
       "image_theme": "CS2 esports betting beginner guide",
-      "status": "available",
-      "writing_style": "新手友好，含術語解釋，1100字"
+      "status": "used",
+      "writing_style": "新手友好，含術語解釋，1100字",
+      "slug": "cs2-betting-strategy-odds-risk-analysis",
+      "used_date": "2026-05-30"
     },
     {
       "id": 39,
