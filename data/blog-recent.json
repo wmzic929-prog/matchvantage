@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "sports-betting-record-tracking-strategy",
+      "title": "體育投注記錄表的結構設計、數據追蹤方法與標準化模板應用研究",
+      "category": "投注策略",
+      "date": "2026-05-31",
+      "excerpt": "以前亂咁落注，輸贏都唔知點解？自從我開始認真記錄，先發現原來有系統咁追蹤數據，係贏錢嘅第一步！",
+      "imageUrl": "/blog/img/sports-betting-record-tracking-strategy.jpg"
+    },
+    {
       "slug": "pre-match-analysis-five-step-methodology",
       "title": "賽前分析五步驟方法論：香港博彩研究的系統性評估框架與實證應用",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "{",
       "imageUrl": "https://pixabay.com/get/g56979117f7d79265036c051b88f4e864627f52dd6e4426a8490b5c24574099574940fe82d65e7ad9e42ea88d7ad99685_640.jpg"
-    },
-    {
-      "slug": "cs2-betting-strategy-odds-risk-analysis",
-      "title": "電競CS2投注基礎攻略：賽事賠率分析與風險評估研究",
-      "category": "undefined",
-      "date": "2026-05-30",
-      "excerpt": "講起電競CS2投注，好多人都覺得好刺激，但又怕亂咁嚟會輸清光。今日我哋就嚟拆解下點樣做到精明投注，唔再做盲頭烏蠅！",
-      "imageUrl": "/blog/img/cs2-betting-strategy-odds-risk-analysis.jpg"
     }
   ]
 }
