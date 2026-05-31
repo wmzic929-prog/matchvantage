@@ -468,8 +468,10 @@
       "category": "通用策略",
       "angle": "教學攻略型",
       "image_theme": "statistics data driven sports betting accuracy",
-      "status": "available",
-      "writing_style": "數據分析教學，含工具推薦，1300字"
+      "status": "used",
+      "writing_style": "數據分析教學，含工具推薦，1300字",
+      "slug": "sports-betting-data-analysis-accuracy",
+      "used_date": "2026-05-31"
     },
     {
       "id": 44,
