@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "sports-betting-data-analysis-accuracy",
+      "title": "統計數據分析在體育投注預測準確率提升中的方法與應用研究",
+      "category": "undefined",
+      "date": "2026-05-31",
+      "excerpt": "每次落注都想贏？我哋都一樣！數據分析就係你提升投注準確率嘅最強武器，今次等我哋一齊拆解佢嘅奧秘！",
+      "imageUrl": "/blog/img/sports-betting-data-analysis-accuracy.jpg"
+    },
+    {
       "slug": "asian-handicap-odds-interpretation-guide",
       "title": "亞洲盤水位解讀技巧：原理、方法與實戰應用完整研究指南",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-31",
       "excerpt": "以前亂咁落注，輸贏都唔知點解？自從我開始認真記錄，先發現原來有系統咁追蹤數據，係贏錢嘅第一步！",
       "imageUrl": "/blog/img/sports-betting-record-tracking-strategy.jpg"
-    },
-    {
-      "slug": "pre-match-analysis-five-step-methodology",
-      "title": "賽前分析五步驟方法論：香港博彩研究的系統性評估框架與實證應用",
-      "category": "undefined",
-      "date": "2026-05-30",
-      "excerpt": "我哋每次落注前，都想贏到盡，但係齋靠感覺點夠？今日我哋就嚟公開一套獨家賽前分析五步驟，幫你系統性拆解比賽，提升勝率！",
-      "imageUrl": "/blog/img/pre-match-analysis-five-step-methodology.jpg"
     }
   ]
 }
