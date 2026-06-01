@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-06-01",
+      "excerpt": "{",
+      "imageUrl": "https://pixabay.com/get/g602cfb962edf1cd9018519820f062492af7b357a0fb2174fb0c7747880751eb15255965f24a56973a9d0865e523ad88d22e987975738de46aef678fe8c3f111f_640.jpg"
+    },
+    {
       "slug": "sports-betting-data-analysis-accuracy",
       "title": "統計數據分析在體育投注預測準確率提升中的方法與應用研究",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-31",
       "excerpt": "每次睇波想落注，最頭痛就係點樣解讀亞洲盤水位？我以前都試過亂估一通，輸到無晒信心，但掌握咗技巧後，真係可以扭轉局面！",
       "imageUrl": "/blog/img/asian-handicap-odds-interpretation-guide.jpg"
-    },
-    {
-      "slug": "sports-betting-record-tracking-strategy",
-      "title": "體育投注記錄表的結構設計、數據追蹤方法與標準化模板應用研究",
-      "category": "投注策略",
-      "date": "2026-05-31",
-      "excerpt": "以前亂咁落注，輸贏都唔知點解？自從我開始認真記錄，先發現原來有系統咁追蹤數據，係贏錢嘅第一步！",
-      "imageUrl": "/blog/img/sports-betting-record-tracking-strategy.jpg"
     }
   ]
 }
