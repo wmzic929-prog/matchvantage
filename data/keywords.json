@@ -490,8 +490,10 @@
       "category": "帳戶管理",
       "angle": "教學攻略型",
       "image_theme": "hong kong sports betting legal compliance",
-      "status": "available",
-      "writing_style": "中立客觀，法律框架說明，1000字"
+      "status": "used",
+      "writing_style": "中立客觀，法律框架說明，1000字",
+      "slug": "hong-kong-sports-betting-legal-framework",
+      "used_date": "2026-06-01"
     },
     {
       "id": 46,
