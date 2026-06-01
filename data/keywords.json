@@ -479,8 +479,10 @@
       "category": "足球投注",
       "angle": "教學攻略型",
       "image_theme": "football lineup analysis factors betting",
-      "status": "available",
-      "writing_style": "分析框架，清單格式，1100字"
+      "status": "used",
+      "writing_style": "分析框架，清單格式，1100字",
+      "slug": "article",
+      "used_date": "2026-06-01"
     },
     {
       "id": 45,
