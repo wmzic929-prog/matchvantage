@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-06-02",
+      "excerpt": "```json",
+      "imageUrl": "https://pixabay.com/get/gfd5fbfad132ac09ccd35db3cbacb661c8c13b168f6989814236a2b829cb480f5a6fa31faeb97dadf33fc9b2f9cfe82f4_640.jpg"
+    },
+    {
+      "slug": "home-away-advantage-football-odds-analysis",
+      "title": "主客場優勢對足球賠率影響之實證研究：數據分析與市場效率探討",
+      "category": "足球投注策略",
+      "date": "2026-06-02",
+      "excerpt": "我哋作為波迷，成日聽人講主場有優勢，但究竟呢個優勢對賠率有幾大影響？今日就同大家深入拆解！",
+      "imageUrl": "https://pixabay.com/get/gea0df5dce50fc64e34b81efaecfdb1b4834a259e1c9495ffef45e56f29cc0e98b1d524c303a982b1565b6b2c74f9302bdfc070673a1da5f94a0613cae212ded0_640.jpg"
+    }
+  ]
+}

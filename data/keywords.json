@@ -1,0 +1,114 @@
+{
+  "keywords": [
+    {
+      "id": 1,
+      "keyword": "運動分析數據如何提升博彩勝率？",
+      "category": "數據分析",
+      "angle": "疑問句型",
+      "image_theme": "sports analytics data statistics betting odds",
+      "status": "used",
+      "writing_style": "數據分析師語氣，含具體數字說明，1300字",
+      "slug": "article",
+      "used_date": "2026-06-02"
+    },
+    {
+      "id": 2,
+      "keyword": "足球賠率分析：主客場優勢的數據真相",
+      "category": "足球分析",
+      "angle": "數據揭示型",
+      "image_theme": "football match statistics home away advantage",
+      "status": "used",
+      "writing_style": "統計分析師語氣，含表格數據，1200字",
+      "slug": "home-away-advantage-football-odds-analysis",
+      "used_date": "2026-06-02"
+    },
+    {
+      "id": 3,
+      "keyword": "籃球比分預測：進階數據模型解析",
+      "category": "籃球分析",
+      "angle": "教學型",
+      "image_theme": "basketball score prediction model analytics",
+      "status": "used",
+      "writing_style": "專業分析師語氣，含模型解析，1400字",
+      "slug": "article",
+      "used_date": "2026-06-02"
+    },
+    {
+      "id": 4,
+      "keyword": "賽馬數據分析：如何看懂跑馬地賠率走勢",
+      "category": "賽馬分析",
+      "angle": "入門教學",
+      "image_theme": "horse racing odds data analysis Hong Kong",
+      "status": "available",
+      "writing_style": "賽馬分析師語氣，港式口吻，1300字",
+      "slug": "horse-racing-odds-analysis-happy-valley",
+      "used_date": null
+    },
+    {
+      "id": 5,
+      "keyword": "電競賠率與傳統體育有何不同？",
+      "category": "電競分析",
+      "angle": "比較型",
+      "image_theme": "esports odds comparison traditional sports",
+      "status": "available",
+      "writing_style": "電競分析師語氣，含對比說明，1200字",
+      "slug": "esports-odds-vs-traditional-sports",
+      "used_date": null
+    },
+    {
+      "id": 6,
+      "keyword": "如何用期望值EV分析運動博彩機會？",
+      "category": "數學分析",
+      "angle": "進階技術",
+      "image_theme": "expected value EV sports betting mathematics",
+      "status": "available",
+      "writing_style": "量化分析師語氣，含公式說明，1500字",
+      "slug": "expected-value-ev-sports-betting",
+      "used_date": null
+    },
+    {
+      "id": 7,
+      "keyword": "網球大滿貫數據：種子排名與實際勝負的差距",
+      "category": "網球分析",
+      "angle": "數據揭示型",
+      "image_theme": "tennis grand slam seed ranking statistics",
+      "status": "available",
+      "writing_style": "體育記者語氣，含歷史數據，1300字",
+      "slug": "tennis-grand-slam-seed-vs-results",
+      "used_date": null
+    },
+    {
+      "id": 8,
+      "keyword": "亞洲讓球賠率解讀完整指南",
+      "category": "賠率分析",
+      "angle": "完整指南",
+      "image_theme": "Asian handicap odds guide betting",
+      "status": "available",
+      "writing_style": "博彩顧問語氣，含實例說明，1400字",
+      "slug": "asian-handicap-odds-complete-guide",
+      "used_date": null
+    },
+    {
+      "id": 9,
+      "keyword": "人工智能體育預測真的準確嗎？",
+      "category": "AI分析",
+      "angle": "批判性分析",
+      "image_theme": "AI sports prediction accuracy machine learning",
+      "status": "available",
+      "writing_style": "科技評論師語氣，含研究引用，1300字",
+      "slug": "ai-sports-prediction-accuracy-review",
+      "used_date": null
+    },
+    {
+      "id": 10,
+      "keyword": "NBA季後賽數據分析：哪些指標最能預測冠軍？",
+      "category": "籃球分析",
+      "angle": "預測分析",
+      "image_theme": "NBA playoffs championship statistics prediction",
+      "status": "available",
+      "writing_style": "NBA分析師語氣，含歷史統計，1500字",
+      "slug": "nba-playoffs-championship-prediction-metrics",
+      "used_date": null
+    }
+  ]
+}
