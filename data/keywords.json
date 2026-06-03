@@ -39,10 +39,10 @@
       "category": "賽馬分析",
       "angle": "入門教學",
       "image_theme": "horse racing odds data analysis Hong Kong",
-      "status": "available",
+      "status": "used",
       "writing_style": "賽馬分析師語氣，港式口吻，1300字",
-      "slug": "horse-racing-odds-analysis-happy-valley",
-      "used_date": null
+      "slug": "article",
+      "used_date": "2026-06-02"
     },
     {
       "id": 5,
@@ -50,10 +50,10 @@
       "category": "電競分析",
       "angle": "比較型",
       "image_theme": "esports odds comparison traditional sports",
-      "status": "available",
+      "status": "used",
       "writing_style": "電競分析師語氣，含對比說明，1200字",
-      "slug": "esports-odds-vs-traditional-sports",
-      "used_date": null
+      "slug": "esports-vs-traditional-odds-analysis",
+      "used_date": "2026-06-03"
     },
     {
       "id": 6,
@@ -61,10 +61,10 @@
       "category": "數學分析",
       "angle": "進階技術",
       "image_theme": "expected value EV sports betting mathematics",
-      "status": "available",
+      "status": "used",
       "writing_style": "量化分析師語氣，含公式說明，1500字",
-      "slug": "expected-value-ev-sports-betting",
-      "used_date": null
+      "slug": "ev-model-sports-betting-strategy",
+      "used_date": "2026-06-03"
     },
     {
       "id": 7,
